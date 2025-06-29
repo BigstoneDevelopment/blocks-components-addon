@@ -1,2 +1,2 @@
-# Bigstone-default-components
-All default the Bigstone components for Bigstone Sandbox. Open a pull request to add your own!
+# Bigstone-building-blocks
+A variety of blocks to use as supports or to build with for decoration!

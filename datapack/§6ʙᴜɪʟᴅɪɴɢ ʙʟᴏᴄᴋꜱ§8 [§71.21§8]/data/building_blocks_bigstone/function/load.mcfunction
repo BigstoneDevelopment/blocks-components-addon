@@ -1,0 +1,1 @@
+schedule function building_blocks_bigstone:add_components 2s
